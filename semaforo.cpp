@@ -1,5 +1,4 @@
-// C++ code
-
+// C++ & Arduino Semaphore
 int pinLedRed = 10;
 int pinLedYellow = 9;
 int pinLedGreen = 8;
