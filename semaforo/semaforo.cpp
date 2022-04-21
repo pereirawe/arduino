@@ -1,4 +1,6 @@
 // C++ & Arduino Semaphore
+// Import .brd file https://www.tinkercad.com/
+
 int pinLedRed = 10;
 int pinLedYellow = 9;
 int pinLedGreen = 8;
